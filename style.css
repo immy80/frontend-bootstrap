@@ -354,3 +354,6 @@ footer .input-group .input-group-text {
 footer .column i {
   color: #dd2476;
 }
+footer .column i + i {
+  padding: 0 0.5em;
+}
